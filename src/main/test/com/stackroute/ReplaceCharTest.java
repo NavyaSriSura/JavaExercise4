@@ -23,6 +23,7 @@ public class ReplaceCharTest {
     public void testGivenStringShouldReplace() {
         String result = replaceChar.replace("daily dry");
         assertEquals(result, "faity fry");
+        assertNotNull(result);
     }
 
     @Test
@@ -35,5 +36,6 @@ public class ReplaceCharTest {
     public void testGivenNullValue()
     {
         String result=replaceChar.replace(null);
+        assertNull(result);
     }
 }

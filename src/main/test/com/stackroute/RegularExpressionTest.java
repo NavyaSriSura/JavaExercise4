@@ -33,12 +33,14 @@ public class RegularExpressionTest {
     {
         String result=obj.findpresence("This is HaRRy","harry");
         assertEquals("Is Harry here ?true",result);
+        assertNotNull(result);
     }
     @Test
     public void testGivenNullShouldReturnNull()
     {
         String result=obj.findpresence(null,null);
         assertEquals(null,result);
+        assertNull(result);
     }
 
 }

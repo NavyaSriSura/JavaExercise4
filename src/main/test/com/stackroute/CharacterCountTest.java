@@ -22,11 +22,13 @@ public class CharacterCountTest {
     {
         String result=characterCount.countCharacter("stackroute","t");
         assertEquals(result,"2");
+        assertNotNull(result);
     }
     @Test(expected = NullPointerException.class)
     public  void testGivenNullShouldRaiseException()
     {
         String  result=characterCount.countCharacter(null,null);
+        assertNull(result);
     }
 
    @Test
@@ -34,11 +36,30 @@ public class CharacterCountTest {
    {
        String result=characterCount.countCharacter("stackroute","b");
        assertEquals(result,"0");
+       assertNotNull(result);
    }
+
    @Test
     public void testGivenEmptyString()
    {
        String result=characterCount.countCharacter("","a");
        assertEquals(result,"Empty strings not allowed");
    }
+
+   @Test
+    public void testGivenNumbersReturnresult()
+   {
+       String result=characterCount.countCharacter("123 32 456","2");
+       assertEquals(result,"2");
+       assertNotNull(result);
+   }
+
+   @Test
+    public void testGivenSpecialSymbols()
+   {
+       String result=characterCount.countCharacter("$!!@ &*!","!");
+       assertEquals(result,"3");
+       assertNotNull(result);
+   }
+
 }

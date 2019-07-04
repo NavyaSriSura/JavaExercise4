@@ -9,12 +9,34 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceChar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/SortParagraph.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/TransposeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/MapElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/RepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/ReplaceElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/SortNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/StudentSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/java/com/stackroute/StudentSorter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/test/com/stackroute/CountWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/test/com/stackroute/MapElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/test/com/stackroute/RepeatCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/test/com/stackroute/ReplaceElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/test/com/stackroute/SortNamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise5/src/main/test/com/stackroute/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercise4/com/stackroute/TransposeWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercise4/com/stackroute/TransposeWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaExercise4/com/stackroute/SortParagraphTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaExercise4/com/stackroute/SortParagraphTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,19 +51,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/CharacterCount.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/MultipleOccurence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="38">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,10 +63,78 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceChar.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="342">
+              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/CharacterCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,36 +144,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="104" selection-start-line="8" selection-start-column="104" selection-end-line="8" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/TransposeWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SortParagraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/MultipleOccurence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,24 +159,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sortParagraph.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/sortParagraphTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/MultipleOccurence.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/CharacterCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceChar.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/RegularExpression.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/TransposeWords.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java" />
       </list>
     </option>
   </component>
@@ -134,6 +185,7 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/../JavaExercise5/JavaExercise5.iml" />
       </list>
     </option>
   </component>
@@ -149,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,7 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -265,8 +317,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RegularExpressionTest">
-    <configuration name="RegularExpressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TransposeWordsTest.testGivenSpecialCharacters">
+    <configuration name="CharacterCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaExercise4" />
       <extension name="coverage">
         <pattern>
@@ -275,13 +327,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.RegularExpressionTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.CharacterCountTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortParagraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharacterCountTest.testGivenSpecialSymbols" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaExercise4" />
       <extension name="coverage">
         <pattern>
@@ -290,29 +342,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.SortParagraphTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransposeWordsTest.testGivenEmptyStirng" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaExercise4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransposeWordsTest" />
-      <option name="METHOD_NAME" value="testGivenEmptyStirng" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.CharacterCountTest" />
+      <option name="METHOD_NAME" value="testGivenSpecialSymbols" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeWordsTest.testGivenNullShouldRaiseException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultipleOccurenceTest.testInputNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaExercise4" />
       <extension name="coverage">
         <pattern>
@@ -321,14 +358,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransposeWordsTest" />
-      <option name="METHOD_NAME" value="testGivenNullShouldRaiseException" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.MultipleOccurenceTest" />
+      <option name="METHOD_NAME" value="testInputNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeWordsTest.testGivenStringReturnTranspose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeWordsTest.testGivenDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaExercise4" />
       <extension name="coverage">
         <pattern>
@@ -338,7 +375,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.TransposeWordsTest" />
-      <option name="METHOD_NAME" value="testGivenStringReturnTranspose" />
+      <option name="METHOD_NAME" value="testGivenDigits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeWordsTest.testGivenSpecialCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaExercise4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransposeWordsTest" />
+      <option name="METHOD_NAME" value="testGivenSpecialCharacters" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -346,11 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RegularExpressionTest" />
-        <item itemvalue="JUnit.SortParagraphTest" />
-        <item itemvalue="JUnit.TransposeWordsTest.testGivenNullShouldRaiseException" />
-        <item itemvalue="JUnit.TransposeWordsTest.testGivenEmptyStirng" />
-        <item itemvalue="JUnit.TransposeWordsTest.testGivenStringReturnTranspose" />
+        <item itemvalue="JUnit.TransposeWordsTest.testGivenSpecialCharacters" />
+        <item itemvalue="JUnit.TransposeWordsTest.testGivenDigits" />
+        <item itemvalue="JUnit.MultipleOccurenceTest.testInputNumbers" />
+        <item itemvalue="JUnit.CharacterCountTest" />
+        <item itemvalue="JUnit.CharacterCountTest.testGivenSpecialSymbols" />
       </list>
     </recent_temporary>
   </component>
@@ -368,42 +421,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReplaceCharTest_testGivenNullValue - 2019.07.03 at 10h 51m 12s.xml">
-      <configuration name="ReplaceCharTest.testGivenNullValue" configurationId="JUnit" />
+    <history-entry file="ReplaceCharTest - 2019.07.04 at 17h 06m 49s.xml">
+      <configuration name="ReplaceCharTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeWordsTest_testGivenStringReturnTranspose - 2019.07.03 at 11h 10m 31s.xml">
-      <configuration name="TransposeWordsTest.testGivenStringReturnTranspose" configurationId="JUnit" />
+    <history-entry file="MultipleOccurenceTest_testInputSpecialCharacters - 2019.07.04 at 17h 08m 26s.xml">
+      <configuration name="MultipleOccurenceTest.testInputSpecialCharacters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeWordsTest_testGivenStringReturnTranspose - 2019.07.03 at 11h 10m 48s.xml">
-      <configuration name="TransposeWordsTest.testGivenStringReturnTranspose" configurationId="JUnit" />
+    <history-entry file="RegularExpressionTest_testGivenNullShouldReturnNull - 2019.07.04 at 17h 08m 51s.xml">
+      <configuration name="RegularExpressionTest.testGivenNullShouldReturnNull" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeWordsTest_testGivenStringReturnTranspose - 2019.07.03 at 11h 11m 15s.xml">
-      <configuration name="TransposeWordsTest.testGivenStringReturnTranspose" configurationId="JUnit" />
+    <history-entry file="TransposeWordsTest - 2019.07.04 at 17h 10m 03s.xml">
+      <configuration name="TransposeWordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeWordsTest_testGivenStringReturnTranspose - 2019.07.03 at 11h 12m 03s.xml">
-      <configuration name="TransposeWordsTest.testGivenStringReturnTranspose" configurationId="JUnit" />
+    <history-entry file="CharacterCountTest_testGivenStringReturnresult - 2019.07.04 at 17h 15m 09s.xml">
+      <configuration name="CharacterCountTest.testGivenStringReturnresult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeWordsTest_testGivenEmptyStirng - 2019.07.03 at 11h 19m 06s.xml">
-      <configuration name="TransposeWordsTest.testGivenEmptyStirng" configurationId="JUnit" />
+    <history-entry file="CharacterCountTest_testGivenNumbersReturnresult - 2019.07.04 at 17h 16m 27s.xml">
+      <configuration name="CharacterCountTest.testGivenNumbersReturnresult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeWordsTest_testGivenNullShouldRaiseException - 2019.07.03 at 11h 22m 27s.xml">
-      <configuration name="TransposeWordsTest.testGivenNullShouldRaiseException" configurationId="JUnit" />
+    <history-entry file="CharacterCountTest_testGivenSpecialSymbols - 2019.07.04 at 17h 16m 31s.xml">
+      <configuration name="CharacterCountTest.testGivenSpecialSymbols" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortParagraphTest - 2019.07.03 at 12h 06m 34s.xml">
-      <configuration name="SortParagraphTest" configurationId="JUnit" />
+    <history-entry file="CharacterCountTest - 2019.07.04 at 17h 16m 35s.xml">
+      <configuration name="CharacterCountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularExpressionTest - 2019.07.04 at 09h 39m 48s.xml">
-      <configuration name="RegularExpressionTest" configurationId="JUnit" />
+    <history-entry file="MultipleOccurenceTest_testInputNumbers - 2019.07.04 at 17h 18m 32s.xml">
+      <configuration name="MultipleOccurenceTest.testInputNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularExpressionTest - 2019.07.04 at 09h 42m 04s.xml">
-      <configuration name="RegularExpressionTest" configurationId="JUnit" />
+    <history-entry file="MultipleOccurenceTest_testInputNumbers - 2019.07.04 at 17h 18m 46s.xml">
+      <configuration name="MultipleOccurenceTest.testInputNumbers" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.264963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.268998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,7 +473,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -432,76 +485,30 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SortParagraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
-          <folding>
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-          </folding>
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/TransposeWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/CharacterCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        <state relative-caret-position="418">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/MultipleOccurence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
+        <state relative-caret-position="38">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -516,24 +523,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceChar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/CharacterCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="120">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SortParagraph.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/CharacterCountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="861">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/TransposeWords.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/MultipleOccurenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state relative-caret-position="342">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/RegularExpressionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/SortParagraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/TransposeWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
         </state>
       </provider>
     </entry>
